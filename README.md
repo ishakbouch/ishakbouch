@@ -2,8 +2,6 @@
  <div>
     <h2 align="center">Hey 👋, I'm ishakbouch</h2>
   </div>
-  <img align="center" src="https://avatars.githubusercontent.com/u/137675769?s=400&u=0d14374d831e2a2a098731763dc20450dc539b5b&v=4" style="width:15%" />
-
  
 </div>
 
